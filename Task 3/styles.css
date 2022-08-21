@@ -8,9 +8,9 @@ h4 {
   margin-top: 0;
 }
 
-.container {
+.flex-container {
   display: flex;
-  align-items: start;
+  align-items: start stretch;
   gap: 40px;
   max-width: 800px;
 }
